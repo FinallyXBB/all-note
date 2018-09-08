@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [GitBook](gitbook/README.md)
 * [Syntax](syntax/README.md)
 * [web](web/README.md)
   * [servlet](web/servlet/README.md)
