@@ -14,3 +14,4 @@
 * [基础算法](基础算法/README.md)
   * [排序](基础算法/排序/README.md)
     * [冒泡排序](基础算法/排序/bubblesort/bubblesort.md)
+    * [希尔排序](基础算法/排序/shellsort/shellsort.md)
