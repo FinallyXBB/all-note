@@ -15,3 +15,6 @@
   * [排序](基础算法/排序/README.md)
     * [冒泡排序](基础算法/排序/bubblesort/bubblesort.md)
     * [希尔排序](基础算法/排序/shellsort/shellsort.md)
+* [mysql]
+  * [mysql索引设计](mysql/深入浅出mysql索引设计.md)
+
