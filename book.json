@@ -1,0 +1,26 @@
+{
+  "plugins": [
+    "expandable-chapters-small",
+    "tbfed-pagefooter",
+    "prism",
+    "theme-comscore"
+  ],
+  "pluginsConfig": {
+    "tbfed-pagefooter": {
+      "modify_label": "更新时间: ",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "prism": {
+      "css": [
+        "prismjs/themes/prism.css"
+      ]
+    },
+    "fontsettings": {
+      "theme": "white",
+      "family": "sans",
+      "size": 1
+    }
+  }
+}
+
+
