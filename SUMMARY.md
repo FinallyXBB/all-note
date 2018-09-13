@@ -15,6 +15,7 @@
   * [排序](基础算法/排序/README.md)
     * [冒泡排序](基础算法/排序/bubblesort/bubblesort.md)
     * [希尔排序](基础算法/排序/shellsort/shellsort.md)
+    * [快速排序](基础算法/排序/quicksort/quicksort.md)
 * [mysql]
   * [mysql索引设计](mysql/深入浅出mysql索引设计.md)
   * [mysql优化](mysql/优化/schema与数据类型/schema与数据类型.md)
