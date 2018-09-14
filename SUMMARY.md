@@ -7,6 +7,8 @@
   * [servlet](web/servlet/README.md)
     * [servlet简述](web/servlet/什么是servlet.md)
   * [jsp](web/jsp/README.md)
+  * [session](web/session/session.md)
+    * [分布式session方案](web/session/分布式session/distributedSession.md)
 * [数据结构](数据结构/README.md)
   * [堆](数据结构/堆/README.md)
     * [堆简介](数据结构/堆/简介/堆简介.md)
