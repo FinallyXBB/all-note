@@ -18,9 +18,10 @@
     * [冒泡排序](基础算法/排序/bubblesort/bubblesort.md)
     * [希尔排序](基础算法/排序/shellsort/shellsort.md)
     * [快速排序](基础算法/排序/quicksort/quicksort.md)
-* [Mysql]
+* [Mysql](mysql.md)
   * [mysql索引设计](mysql/深入浅出mysql索引设计.md)
   * [mysql优化](mysql/优化/schema与数据类型/schema与数据类型.md)
+    * [高性能索引](mysql/优化/高性能索引/高性能索引.md)
 * [Tomcat](tomcat/README.md)
   * [debug](tomcat/debug/debug.md)
 * [网络](网络/大佬.md)
